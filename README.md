@@ -35,5 +35,3 @@ Entrambi i progetti sono sviluppati in Python con Jupyter Notebook e utilizzano 
 - Matplotlib, Seaborn
 
 ---
-
-## 📁 File presenti
